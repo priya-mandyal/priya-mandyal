@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya</h1>
 <h3 align="center">Currently pursuing Masters in Applied Computer Science from Dalhousie University Canada.</h3>
 
-<h4>I got into coding during my under graduation in Electronics Engineering in India, and since then, I haven't spent a day without coding. Over the years, I've explored various roles as a Software Engineer, working with Java, Python, Web Development and Full Stack Development. 🎨✨ </h4>
+<h4>I got into coding during my under graduation, and since then, I haven't spent a day without coding. Over the years, I've explored various roles as a Software Engineer, working with Java, Python, Web Development and Full Stack Development. 🎨✨ </h4>
 
 <h3 align="left">Let's connect!</h3>
 <p align="left">
