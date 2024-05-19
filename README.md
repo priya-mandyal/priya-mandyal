@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
 </a>
 
-- 🌱 I’m currently learning <em>React</em>
+- 🌱 I’m currently learning <em>Cloud</em>
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
