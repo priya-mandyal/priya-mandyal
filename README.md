@@ -5,8 +5,8 @@
 
 <h3 align="left">Let's connect!</h3>
 <p align="left">
-<a href="mailto:priya.mandyal98@gmail.com">
-  <img src="https://img.shields.io/badge/Email-priya.mandyal98%40gmail.com-%23D14836" alt="Email">
+<a href="mailto:mandyal.priya98@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mandyal.priya98%40gmail.com-%23D14836" alt="Email">
 </a>
 <a href="https://www.linkedin.com/in/priyamandyal">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
