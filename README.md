@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya</h1>
 <h3 align="center">Currently pursuing Masters in Applied Computer Science from Dalhousie University Canada.</h3>
 
-<h4>I got into coding during my under graduation, and since then, I haven't spent a day without coding. Over the years, I've explored various roles as a Software Engineer, working with Java, Python, Web Development and Full Stack Development. 🎨✨ </h4>
+<h4>I got into coding during my under graduation, and since then, I haven't spent a day without coding. Over the years, I've explored various roles as a Software Engineer, working with Java, Python, AWS and Full Stack Development. 🎨✨ </h4>
 
 <h3 align="left">Let's connect!</h3>
 <p align="left">
@@ -15,8 +15,6 @@
 - 🌱 I’m currently learning <em>Cloud</em>
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
-
-- 📫 Let's connect **priya.mandyal98@gmail.ocm**
 
 - ⚡ Fun fact **I like anime and books**
 
