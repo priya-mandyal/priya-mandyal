@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning <em>Cloud</em>
 
-- ⚡ Fun fact **I like anime and books**
+- ⚡ Fun fact **I can recreate any painting(flawlessly).**
 
 
 </p>
