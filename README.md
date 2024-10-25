@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning <em>Cloud</em>
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
-
 - ⚡ Fun fact **I like anime and books**
 
 
