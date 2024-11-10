@@ -13,7 +13,7 @@
 </a>
 
 - 🌱 I’m currently learning <em>Cloud</em>
-
+-  I love <em>anime</em>🌸 and <em>books</em>📚.
 - ⚡ Fun fact **I can recreate any painting(flawlessly).**
 
 
